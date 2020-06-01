@@ -11,6 +11,10 @@
 * [实时房间状态管理](client/realtime-room-state-management.md)
 * [房间业务状态管理](client/room-business-state-management.md)
 * [视角与坐标](client/view-and-coordinates.md)
+* [自定义事件](client/custom-event.md)
 * [多页白板与场景管理](client/multi-page-application-and-scene-management.md)
+* [光标](client/cursor.md)
 * [PPT](client/ppt.md)
+* [房间里的用户](client/users-in-room.md)
+* [录制与回放](client/record-and-replay.md)
 
