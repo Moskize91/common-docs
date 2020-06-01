@@ -15,6 +15,5 @@
 * [多页白板与场景管理](client/multi-page-application-and-scene-management.md)
 * [光标](client/cursor.md)
 * [PPT](client/ppt.md)
-* [房间里的用户](client/users-in-room.md)
 * [录制与回放](client/record-and-replay.md)
 
