@@ -1,6 +1,6 @@
 # 房间业务状态管理
 
-房间的业务状态用于改变白板的行为，或承载自定义业务逻辑。注意，业务状态与[实时房间状态](https://developer.netless.group/documents/client/realtime-room-state-management)是不同的概念。
+房间的业务状态用于改变白板的行为，或承载自定义业务逻辑。注意，业务状态与[实时房间状态](https://developer.netless.link/documents/client/realtime-room-state-management)是不同的概念。
 
 ## 管理字典类型的 object
 
@@ -110,7 +110,7 @@ room.setMemberState({
 
 ## Broadcast State
 
-这是一个字典类型的 object，用来描述广播视角与视角跟随的状态。更多细节你可以参考[《视角与坐标》](https://developer.netless.group/documents/client/view-and-coordinates)章节，此处只作简单说明。
+这是一个字典类型的 object，用来描述广播视角与视角跟随的状态。更多细节你可以参考[《视角与坐标》](https://developer.netless.link/documents/client/view-and-coordinates)章节，此处只作简单说明。
 
 Broadcast State 的字段列表及其描述如下。
 

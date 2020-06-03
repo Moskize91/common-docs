@@ -23,7 +23,7 @@
 
 2、获取方式
 
-* 调用[生成 Room Token 的服务端 API](https://developer.netless.group/server/api-reference/generate-token#sheng-cheng-room-token)可以获取。
+* 调用[生成 Room Token 的服务端 API](https://developer.netless.link/server/api-reference/generate-token#sheng-cheng-room-token)可以获取。
 
 ### uuid
 
@@ -33,5 +33,5 @@
 
 2、获取方式
 
-* 调用[创建房间的服务端 API](https://developer.netless.group/server/api-reference/room#chuang-jian-fang-jian) 可以获取。
+* 调用[创建房间的服务端 API](https://developer.netless.link/server/api-reference/room#chuang-jian-fang-jian) 可以获取。
 

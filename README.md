@@ -4,7 +4,7 @@ description: 根据你的需要阅读 Netless 的文档
 
 # 从这里开始
 
-**Netless** 提供了一套完整的**互动白板**解决方案。 客户端产品覆盖 iOS、Android、Web 等主流平台，同时提供完整的配套功能服务。 可用于在线教育、在线会议、协作办公等场景。 
+**Netless** 提供了一套完整的**互动白板**解决方案。 客户端产品覆盖 iOS、Android、Web 等主流平台，同时提供完整的配套功能服务。 可用于在线教育、在线会议、协作办公等场景。
 
 ## 体验 Netless 互动白板
 
@@ -20,8 +20,8 @@ Netless 互动白板提出了一些独特概念，以及针对特定场景的解
 
 如果你觉得 Netless 文档篇幅多，节奏太快，你可以根据你的技术栈，阅读你的语言对应的《快速开始》文章。这些文章将手把手地教你写一个可以运行地 Netless 互动白板应用。在此过程中，该文会避开那些进阶地繁琐功能点，单刀直入地挑明你最需要掌握地概念。
 
-* [《快速开始 - 原生 JavaScript》](https://developer.netless.group/javascript/quick-start/native-javascript)
-* [《快速开始 - 基于 React》](https://developer.netless.group/javascript/quick-start/react)
+* [《快速开始 - 原生 JavaScript》](https://developer.netless.link/javascript/quick-start/native-javascript)
+* [《快速开始 - 基于 React》](https://developer.netless.link/javascript/quick-start/react)
 
 如果你照着该文一步一步做，最终你将在本地运行起你的第一个 Netless 互动白板应用。
 
@@ -29,7 +29,7 @@ Netless 互动白板提出了一些独特概念，以及针对特定场景的解
 
 如果你已经阅读过了上一章节所说的文章，可以阅读各个语言的进阶教程。
 
-* [《进阶教程 - JavaScript》](https://developer.netless.group/javascript/advanced-tutorial/installation)
+* [《进阶教程 - JavaScript》](https://developer.netless.link/javascript/advanced-tutorial/installation)
 
 阅读这一系列文章，你将走马观花般地接触到 Netless 互动白板的方方面面。之后，你将对如何基于 Netless 互动白板 SDK 开发一个 App 有一个整体了解。
 
